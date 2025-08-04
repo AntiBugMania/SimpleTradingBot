@@ -1,0 +1,12 @@
+{
+  "symbol": "AAPL",
+  "exchange": "SMART",
+  "currency": "USD",
+  "order_size": 10,
+  "strategy": "consolidation_breakout",
+  "max_positions": 1,
+  "risk_per_trade": 0.01,
+  "breakout_length": 20,
+  "atr_period": 14,
+  "atr_multiplier": 2.0
+}
