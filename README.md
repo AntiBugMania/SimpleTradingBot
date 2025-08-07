@@ -2,6 +2,7 @@
 A boilerplate project for developing a trading bot using Interactive Brokers (IBKR) API and python.
 
 ## Setup
+
 ### 1. Python Virtual Environment
 
 python -m venv venv
