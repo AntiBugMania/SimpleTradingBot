@@ -14,3 +14,5 @@ pip install -r requirements.txt
 
 ### 3. Running the project
 python main.py
+
+got it?
