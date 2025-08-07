@@ -3,6 +3,7 @@ import time
 from ib_insync import *
 import pandas as pd
 
+
 # ---- LOAD CONFIG ----
 with open('config/consolidation_breakout.json', 'r') as f:
     cfg = json.load(f)
